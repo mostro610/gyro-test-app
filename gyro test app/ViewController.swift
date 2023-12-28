@@ -75,7 +75,7 @@ class ViewController: UIViewController {
         }
         
     }
-
+//jjjj
     
 //--------Accel--------
 
